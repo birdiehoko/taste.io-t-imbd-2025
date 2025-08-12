@@ -1,4 +1,4 @@
-# taste.io t imbd 2025
+# taste.io 2 imbd 2025
 
 ## instructions
 1. **Get your Taste.io ratings:**
