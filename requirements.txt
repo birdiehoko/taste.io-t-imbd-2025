@@ -1,0 +1,4 @@
+pandas
+imdbpy
+selenium
+webdriver-manager
